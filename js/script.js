@@ -3,7 +3,7 @@ var textarea = $('.term');
 var i = 0;
 var count = 0;
 
-var start = 'enact.lol'
+var start = 'enact.wtf'
 var data = [
   './enact.lol',
   'enact',
