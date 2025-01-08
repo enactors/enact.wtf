@@ -10,7 +10,7 @@ var data = [
   '********',
   'Yes\n',
   'EN1CT',
-  'rape',
+  '2014',
   'Enact',
   'enact@meowb.in\n\n',
 ]
@@ -88,7 +88,7 @@ var output = [
   "debug: Creating user home directory, /home/enact",
   "debug: Granting sudo privileges to user 'enact'",
   "debug: Setting telegram account name 'EN1CT'",
-  "debug: Setting Doxbin username 'rape'",
+  "debug: Setting Doxbin username '2014'",
   "debug: Setting Breachforums username 'enact'",
   "debug: Setting email address 'enact@meowb.in'",
   "debug: Account initialized!"
